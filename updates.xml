@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theupdates>
+	<update>
+    	<version>1.1</version>
+    	<file>UPDATE1.1.rar</file>
+		<html>https://drive.google.com/open?id=1sIrj5SHvKnuzBAxVkUn8vuR1VphuO-gW</html> 
+		<command>true</command> 
+		<execute>Missions.exe</execute>	
+  	</update>	
+</theupdates>
